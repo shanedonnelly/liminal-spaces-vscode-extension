@@ -1,4 +1,4 @@
-# Liminal Spaces
+# Liminal Spaces Vscode Extension
 
 A Visual Studio Code extension that displays random liminal space GIFs. (300 gifs, ~70 Mo)
 
