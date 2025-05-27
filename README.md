@@ -5,7 +5,7 @@ A Visual Studio Code extension that displays random liminal space GIFs. (300 gif
 
 ## Installation (without Marketplace)
 
-1. Download the VSIX file from the [releases page](https://github.com/shane-donnelly/liminal-spaces/releases)
+1. Download the VSIX file from the [releases page](https://github.com/shanedonnelly/liminal-spaces-vscode-extension/releases/tag/v1.0.0)
 2. Open VS Code
 3. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
 4. Type "Install from VSIX" and select the option
